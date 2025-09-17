@@ -1,0 +1,43 @@
+#imagem{
+    padding-left: 100px;
+}
+
+main{
+    margin-top: 5vh;
+}
+
+img{
+    padding-left: 50px;
+    height: 35vh;
+}
+
+#texto{
+    padding-right: 100px;
+    padding-left: 50px;
+}
+
+.botoes{
+    padding-top: 25px;
+}
+
+.botoes a{
+
+    display: inline-block;
+    background-color: #2EC4B6;
+
+    font-weight: bolder;
+    text-decoration: none;
+    color: white;
+
+    padding: 10px;
+    margin: 0px 275px;
+    
+    border: 1px solid white;
+    border-radius: 5px;
+    
+}
+
+.botoes a:hover{
+    background-color: #12a395;
+}
+

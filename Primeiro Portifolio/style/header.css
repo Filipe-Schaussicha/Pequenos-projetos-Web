@@ -1,0 +1,54 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+header{
+    width: auto;
+    height: 136px;
+    background: linear-gradient(to bottom, #FFBF69, #cbf3f0);
+    align-items: center;
+}
+
+.funnel-sans{
+  font-family: "Funnel Sans", sans-serif;
+  font-optical-sizing: auto;
+  /*font-weight: <weight>;*/
+  font-style: normal;
+}
+
+#titulo{
+    padding-left: 100px;
+    padding-top: 50px;
+}
+
+nav a{
+    text-decoration: none;
+    display: inline-block;
+    margin-left: 120px;
+}
+
+nav a:hover{
+    font-weight: bolder;
+}
+
+nav{
+    padding-top: 50px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+#links{
+    padding-left: 900px;
+
+}
+
+#link-atual{
+    color:black;
+}
+
+/*
+td{
+    border: 2px solid black;
+}
+*/

@@ -1,0 +1,45 @@
+.formulario{
+    margin: 50px auto;
+    text-align: center;
+    font-size: larger;
+}
+
+.formulario td{
+    padding: 10px 0px;
+}
+
+.botoes{
+    font-size: 18px;
+    color: white;
+    padding: 10px;
+    border: 1px solid transparent;
+    border-radius: 5px;
+}
+
+#apagar{
+    background-color: red;
+}
+
+#enviar{
+    background-color: green;
+}
+
+.formulario label{
+    margin-right: 5px;
+}
+
+.formulario textarea{
+    text-align: left;
+    font-size:larger;
+}
+
+.fundo-cinza{
+    background-color: #F5F5F5;
+    border: 1px solid black;
+    padding: 5px;
+    border-radius: 3px;
+}
+
+.formulario caption{
+    margin-bottom: 25px;
+}
