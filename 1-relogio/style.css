@@ -1,0 +1,26 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content:center;
+
+    text-align: center;
+    font-size: 32px;
+    font-family: sans-serif;
+
+    background-color: #fefae0;
+}
+
+main{
+    padding: 10%;
+    background-color: #faedcd;
+    border: 1px solid transparent;
+    border-radius: 25px;
+    color: #af8051;
+}

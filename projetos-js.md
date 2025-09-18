@@ -3,7 +3,7 @@
 ---
 
 ## 🟢 Nível Iniciante (conceitos básicos da linguagem + DOM)
-- [ ] Relógio digital  
+- [x] Relógio digital  
 - [ ] Cronômetro  
 - [ ] Timer regressivo (countdown)  
 - [ ] Calculadora simples  
